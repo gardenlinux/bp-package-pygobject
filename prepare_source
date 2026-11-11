@@ -1,2 +1,2 @@
-git_src -b debian/3.58.1-1 https://salsa.debian.org/gnome-team/pygobject.git
+git_src -b debian/3.56.3-2 https://salsa.debian.org/gnome-team/pygobject.git
 version_suffix=gl0~bp2150
